@@ -6,7 +6,7 @@ package calculadora;
 
 /**
  *
- * @author Carlos
+ * @author Edmundo
  */
 public class Operacion {
     
